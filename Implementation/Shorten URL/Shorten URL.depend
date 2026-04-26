@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1777223188 source:c:\dgtec\c++ shorten url\implementation\shorten url\validator.cpp
+	"Validator.h"
+
+1777219125 c:\dgtec\c++ shorten url\implementation\shorten url\validator.h
+	<string>
+	<regex>
+
+1777222423 source:c:\dgtec\c++ shorten url\implementation\shorten url\cliapp.cpp
+	"CliApp.h"
+	<iostream>
+	<limits>
+
+1777219099 c:\dgtec\c++ shorten url\implementation\shorten url\cliapp.h
+	"UrlShortenerService.h"
+	<string>
+
+1777219076 c:\dgtec\c++ shorten url\implementation\shorten url\urlshortenerservice.h
+	<string>
+	"Validator.h"
+	"ShortenerEngine.h"
+	"PersistenceManager.h"
+
+1777219163 c:\dgtec\c++ shorten url\implementation\shorten url\shortenerengine.h
+	<string>
+
+1777218911 c:\dgtec\c++ shorten url\implementation\shorten url\persistencemanager.h
+	<string>
+	<unordered_map>
+
+1777219063 source:c:\dgtec\c++ shorten url\implementation\shorten url\main.cpp
+	"Validator.h"
+	"ShortenerEngine.h"
+	"PersistenceManager.h"
+	"UrlShortenerService.h"
+	"CliApp.h"
+	<iostream>
+
+1777223232 source:c:\dgtec\c++ shorten url\implementation\shorten url\shortenerengine.cpp
+	"ShortenerEngine.h"
+	<algorithm>
+
+1777223503 source:c:\dgtec\c++ shorten url\implementation\shorten url\persistencemanager.cpp
+	"PersistenceManager.h"
+	<fstream>
+	<sstream>
+
+1777223562 source:c:\dgtec\c++ shorten url\implementation\shorten url\urlshortenerservice.cpp
+	"UrlShortenerService.h"
+
