@@ -185,15 +185,3 @@ The global counter (last used ID) is stored on the first line and updated on eve
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Asser | Core engine & validation |
-| Youssef Waleed | Repository & persistence layer |
-| Mohamed Badie | Menu, UX & integration |
-```
-
----
-
-Structured to match the Job Scheduler README style — tree-based workflow, feature table, architecture table, and a usage block. Swap out the team roles and example output as needed.
